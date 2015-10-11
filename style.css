@@ -1,4 +1,6 @@
-
-h1{font-size:21pt; font-family: serif; background-color: #d0e4fe;}
+body {
+    background-color: blue;
+}
+h1{font-size:21pt; font-family: serif;color: orange;}
          .artikel{font-size:13pt;}
          #eins{width:120px;}
